@@ -1,7 +1,3 @@
-# ================= SWIN TRANSFORMER =================
-
-!pip install timm -q
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
